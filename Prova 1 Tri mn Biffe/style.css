@@ -1,0 +1,67 @@
+/* O banner tem de autor o site/compania Freepik. Link:https://br.freepik.com/fotos-gratis/pessoa-cercada-por-texto-ondulado_36190819.htm#fromView=search&page=1&position=0&uuid=38095cd4-1c4d-481d-ae19-dfd3eec9b911 */
+/* A imagem do produto tem de autor */
+
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.logo {
+    color: #c8a2c8;
+    margin-left: 10px;
+    font-family: Arial;
+}
+
+.banner {
+    width:100%;
+    height:100%;
+    max-height: 900px;
+}
+
+header {
+    border-bottom: solid 2px #c8a2c8;
+}
+
+.titulo {
+    font-family: Arial;
+    text-align: center;
+    color:#c8a2c8;
+    font-size: 30px;
+}
+
+.beneficios {
+    font-family: sans-serif;
+    text-align: center;
+    color:#c8a2c8af;
+    font-size: 20px;
+}
+
+.home-page {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.rodape {
+    border-top: solid 2px #c8a2c8;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: #dfb0df7b;
+    padding: 40px 0;
+}
+
+.logo-rodape {
+    color: #ffffff;
+    font-family: Arial;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
+
+.link {
+    color:#c8a2c8af;
+}

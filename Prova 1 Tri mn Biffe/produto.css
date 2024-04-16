@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.logo {
+    color: #c8a2c8;
+    margin-left: 10px;
+    font-family: Arial;
+}
+
+header {
+    border-bottom: solid 2px #c8a2c8;
+}
+
+.titulo {
+    font-family: Arial;
+    text-align: center;
+    color:#c8a2c8;
+    font-size: 30px;
+}
+
+.produtos {
+    margin-top: 130px;
+    margin-bottom: 130px;
+
+}
+
+.produtos li {
+	display: inline-block;
+	text-align: center;
+	width: 18%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 20px 10px;
+	box-sizing: border-box;
+	border: 2px solid #c8a2c8;
+	border-radius: 10px;
+}
+
+.tipo_produto {
+    font-family: Arial;
+    color:#c8a2c8c5;
+}
+
+.desc_produto {
+    font-family: sans-serif;
+    color:#c8a2c8c5;
+}
+
+.preco_produto {
+    font-family: sans-serif;
+    color:#c8a2c8c5;
+}
+
+.rodape {
+    border-top: solid 2px #c8a2c8;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: #dfb0df7b;
+    padding: 40px 0;
+}
+
+.logo-rodape {
+    color: #ffffff;
+    font-family: Arial;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
+
+.link {
+    color:#c8a2c8af;
+}
